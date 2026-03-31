@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\leave\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\leave\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|solutionrelative:smartleaveapproval.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\leave\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\leave\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7EC2922-07B8-4C4B-81FA-9537FEA44A1F}|SmartLeaveApproval.Web\\SmartLeaveApproval.Web.csproj|solutionrelative:smartleaveapproval.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\validators\\applyleavevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\validators\\applyleavevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\smartleaveapproval.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\smartleaveapproval.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\services\\leaveevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\services\\leaveevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\specifications\\autorejectspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\specifications\\autorejectspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\specifications\\autoapprovespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\specifications\\autoapprovespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.application\\specifications\\ileavespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F34D327-41AD-4C8C-BC3C-7CACAF97D506}|SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj|solutionrelative:smartleaveapproval.application\\specifications\\ileavespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|solutionrelative:smartleaveapproval.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.infrastructure\\repositories\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|solutionrelative:smartleaveapproval.infrastructure\\repositories\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\interfaces\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\interfaces\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.infrastructure\\smartleaveapproval.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08CAB944-4AAA-4463-BB89-9114E8B7AEDA}|SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj|solutionrelative:smartleaveapproval.infrastructure\\smartleaveapproval.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\smartleaveapproval.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\smartleaveapproval.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\entities\\leaveauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\entities\\leaveauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|c:\\users\\vishalnavnathwaghmod\\my_project\\smartleaveapproval.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7A8460-6A54-4C36-A859-FAD77729B198}|SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj|solutionrelative:smartleaveapproval.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Leave\\Apply.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Leave\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Leave\\Apply.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Leave\\Apply.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T20:32:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T20:29:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T20:23:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:42:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:08:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxQAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:30:36.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Program.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwDoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:39:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:42:55.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\LeaveService.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Services\\LeaveService.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\LeaveService.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Services\\LeaveService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:26:17.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:45:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T19:46:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Leave\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Leave\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Leave\\Index.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Leave\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T19:48:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T19:49:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Web\\appsettings.json",
+              "RelativeToolTip": "SmartLeaveApproval.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T19:39:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplyLeaveValidator.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Validators\\ApplyLeaveValidator.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Validators\\ApplyLeaveValidator.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Validators\\ApplyLeaveValidator.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Validators\\ApplyLeaveValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:29:53.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmartLeaveApproval.Application",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\SmartLeaveApproval.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T19:29:26.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\LeaveEvaluator.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Services\\LeaveEvaluator.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Services\\LeaveEvaluator.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Services\\LeaveEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:23:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoRejectSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\AutoRejectSpecification.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Specifications\\AutoRejectSpecification.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\AutoRejectSpecification.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Specifications\\AutoRejectSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:22:30.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoApproveSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\AutoApproveSpecification.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Specifications\\AutoApproveSpecification.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\AutoApproveSpecification.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Specifications\\AutoApproveSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:20:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILeaveSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\ILeaveSpecification.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Application\\Specifications\\ILeaveSpecification.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Application\\Specifications\\ILeaveSpecification.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Application\\Specifications\\ILeaveSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:18:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:15:55.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Repositories\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Infrastructure\\Repositories\\LeaveRepository.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\Repositories\\LeaveRepository.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Infrastructure\\Repositories\\LeaveRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:12:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SmartLeaveApproval.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj",
+              "RelativeToolTip": "SmartLeaveApproval.Infrastructure\\SmartLeaveApproval.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T19:12:20.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\ILeaveService.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Interfaces\\ILeaveService.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\ILeaveService.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Interfaces\\ILeaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:03:37.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\ILeaveRepository.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Interfaces\\ILeaveRepository.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\ILeaveRepository.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Interfaces\\ILeaveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:00:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:02:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\DTOs\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\DTOs\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\DTOs\\LeaveRequestDto.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\DTOs\\LeaveRequestDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA/wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:56:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeaveAuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\LeaveAuditLog.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Entities\\LeaveAuditLog.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\LeaveAuditLog.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Entities\\LeaveAuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:52:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Entities\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\LeaveRequest.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Entities\\LeaveRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:49:09.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:48:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SmartLeaveApproval.Core",
+              "DocumentMoniker": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj",
+              "RelativeDocumentMoniker": "SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj",
+              "ToolTip": "C:\\Users\\VishalNavnathWaghmod\\My_Project\\SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj",
+              "RelativeToolTip": "SmartLeaveApproval.Core\\SmartLeaveApproval.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T18:47:45.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

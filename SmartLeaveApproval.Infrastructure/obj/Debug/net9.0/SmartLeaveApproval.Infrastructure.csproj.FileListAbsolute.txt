@@ -1,0 +1,17 @@
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.deps.json
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.runtimeconfig.json
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Core.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\bin\Debug\net9.0\SmartLeaveApproval.Core.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.AssemblyInfo.cs
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLea.B6828DC8.Up2Date
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\refint\SmartLeaveApproval.Infrastructure.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\SmartLeaveApproval.Infrastructure.genruntimeconfig.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Infrastructure\obj\Debug\net9.0\ref\SmartLeaveApproval.Infrastructure.dll

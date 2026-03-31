@@ -1,0 +1,11 @@
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\bin\Debug\net9.0\SmartLeaveApproval.Core.deps.json
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\bin\Debug\net9.0\SmartLeaveApproval.Core.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\bin\Debug\net9.0\SmartLeaveApproval.Core.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.AssemblyInfoInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.AssemblyInfo.cs
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.csproj.CoreCompileInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\refint\SmartLeaveApproval.Core.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\SmartLeaveApproval.Core.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Core\obj\Debug\net9.0\ref\SmartLeaveApproval.Core.dll

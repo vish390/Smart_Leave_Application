@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SmartLeaveApproval.Core.DTOs.LeaveRequestViewModel>
+@{
+    ViewData["Title"] = "Admin - All Leaves";
+}
+
+<h3>All Leave Requests</h3>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Employee</th>
+            <th>Type</th>
+            <th>From</th>
+            <th>To</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var l in Model)
+        {
+            <tr>
+                <td>@l.EmployeeName</td>
+                <td>@l.LeaveType</td>
+                <td>@l.StartDate.ToString("dd MMM yyyy")</td>
+                <td>@l.EndDate.ToString("dd MMM yyyy")</td>
+                <td>
+                    <span class="badge @(l.Status == "Approved" ? "bg-success" : l.Status == "Rejected" ? "bg-danger" : "bg-warning text-dark")">
+                        @l.Status
+                    </span>
+                </td>
+                <td>
+                    <form method="post" asp-action="Override" class="d-flex gap-2">
+                        <input type="hidden" name="LeaveRequestId" value="@l.Id" />
+                        <input type="text" name="Comment" class="form-control form-control-sm" placeholder="Comment" />
+                        <button name="NewStatus" value="Approved" class="btn btn-sm btn-success">✓</button>
+                        <button name="NewStatus" value="Rejected" class="btn btn-sm btn-danger">✗</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

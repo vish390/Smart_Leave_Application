@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SmartLeaveApproval.Core.DTOs.LeaveRequestViewModel>
+@{
+    ViewData["Title"] = "My Leaves";
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<div class="d-flex justify-content-between mb-3">
+    <h3>My Leave Requests</h3>
+    <a asp-action="Apply" class="btn btn-primary">+ Apply Leave</a>
+</div>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Type</th>
+            <th>From</th>
+            <th>To</th>
+            <th>Reason</th>
+            <th>Status</th>
+            <th>Applied On</th>
+            <th>Audit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var l in Model)
+        {
+            <tr>
+                <td>@l.LeaveType</td>
+                <td>@l.StartDate.ToString("dd MMM yyyy")</td>
+                <td>@l.EndDate.ToString("dd MMM yyyy")</td>
+                <td>@l.Reason</td>
+                <td>
+                    <span class="badge @(l.Status == "Approved" ? "bg-success" : l.Status == "Rejected" ? "bg-danger" : "bg-warning text-dark")">
+                        @l.Status
+                    </span>
+                </td>
+                <td>@l.AppliedOn.ToString("dd MMM yyyy")</td>
+                <td>
+                    @if (l.AuditLogs.Any())
+                    {
+                        <ul class="mb-0 ps-3">
+                            @foreach (var a in l.AuditLogs)
+                            {
+                                <li><small><b>@a.ChangedBy</b>: @a.OldStatus → @a.NewStatus @(a.Comment != null ? $"({a.Comment})" : "")</small></li>
+                            }
+                        </ul>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

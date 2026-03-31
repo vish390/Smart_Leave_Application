@@ -1,0 +1,17 @@
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Application.deps.json
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Application.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Application.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Core.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Core.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\bin\Debug\net9.0\SmartLeaveApproval.Infrastructure.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.csproj.AssemblyReference.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.AssemblyInfoInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.AssemblyInfo.cs
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.csproj.CoreCompileInputs.cache
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLea.65D339E0.Up2Date
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\refint\SmartLeaveApproval.Application.dll
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\SmartLeaveApproval.Application.pdb
+C:\Users\VishalNavnathWaghmod\My_Project\SmartLeaveApproval.Application\obj\Debug\net9.0\ref\SmartLeaveApproval.Application.dll
